@@ -17,6 +17,9 @@ ___
 Data on which the model is trained is from ShanghaiTech can be found here:
 https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view
 
+Trained Model can be found here: 
+https://drive.google.com/file/d/1W58cGbFr2SJvOmBoPu-quIjO5i9g4hFL/view?usp=sharing
+
 Used the state-of-the-art CSRNet to train the model.
 
 MAE recorded is 75%, which can be increased more after more Indian crowd related data, specific to the cause.
