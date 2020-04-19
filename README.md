@@ -24,6 +24,10 @@ Used the state-of-the-art CSRNet to train the model.
 
 MAE recorded is 75%, which can be increased more after more Indian crowd related data, specific to the cause.
 
+A Snapshot of resulting system
+
+![alt_text](https://github.com/AshuMaths1729/Crowd_Alertify/blob/master/Result.png "Result")
+
 ___
 ## To-Do:
 * Train on more specific data like video streams, to get better model's performace.
