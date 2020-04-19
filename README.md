@@ -26,7 +26,9 @@ MAE recorded is 75%, which can be increased more after more Indian crowd related
 
 A Snapshot of resulting system
 
-![alt_text](https://github.com/AshuMaths1729/Crowd_Alertify/blob/master/Result.png "Result")
+![alt_text](https://github.com/AshuMaths1729/Crowd_Alertify/blob/master/Result_1.png "Original Image")
+![alt_text](https://github.com/AshuMaths1729/Crowd_Alertify/blob/master/Result.png "Result with density plot")
+
 
 ___
 ## To-Do:
