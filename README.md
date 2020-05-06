@@ -32,8 +32,8 @@ A Snapshot of resulting system
 
 ___
 ## To-Do:
-* Train on more specific data like video streams, to get better model's performace.
-* Use various other hyperparameters involved in the CSRNet.
+* Train on more specific data like video streams, to get better model's performance.
+* Tune various other hyperparameters involved in the CSRNet.
 * Deploy the trained classifier on to a drone or a surveillance camera for various implementations like aerosol/sanitizer spraying, sharing GPS location of area or playing police sirens.
 
 
